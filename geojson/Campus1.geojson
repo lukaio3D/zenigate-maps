@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Mensa" },
+      "geometry": {
+        "coordinates": [9.161473833378722, 49.97130359562257],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": { "name ": "Gebäude 1" },
+      "geometry": {
+        "coordinates": [9.16065083562097, 49.97116813167128],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 2" },
+      "geometry": {
+        "coordinates": [9.161253178165367, 49.97085327802739],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 4" },
+      "geometry": {
+        "coordinates": [9.161982781040365, 49.97106437600908],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 6" },
+      "geometry": {
+        "coordinates": [9.162450702392078, 49.97145233585019],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Parkhaus" },
+      "geometry": {
+        "coordinates": [9.16370588596439, 49.97189163979465],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 7" },
+      "geometry": {
+        "coordinates": [9.16291418931499, 49.97181176658788],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 40" },
+      "geometry": {
+        "coordinates": [9.162193457162687, 49.97170336722857],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 20" },
+      "geometry": {
+        "coordinates": [9.161962824880533, 49.97232808639092],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 21" },
+      "geometry": {
+        "coordinates": [9.161386239114876, 49.972733151084896],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Energiezentrale" },
+      "geometry": {
+        "coordinates": [9.161002588127701, 49.97280161294293],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 22" },
+      "geometry": {
+        "coordinates": [9.160665507103914, 49.972542029883584],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bibliothek" },
+      "geometry": {
+        "coordinates": [9.160572366304365, 49.97197436535063],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 24" },
+      "geometry": {
+        "coordinates": [9.160060091853467, 49.972104158586575],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 26" },
+      "geometry": {
+        "coordinates": [9.159884898204155, 49.97161351000099],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Wohnheim" },
+      "geometry": {
+        "coordinates": [9.161820887366787, 49.97333075249591],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 41" },
+      "geometry": {
+        "coordinates": [9.16223374030875, 49.97291220176692],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 42" },
+      "geometry": {
+        "coordinates": [9.162522900790663, 49.97276516778223],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 43" },
+      "geometry": {
+        "coordinates": [9.162819382131573, 49.972595048808785],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 92" },
+      "geometry": {
+        "coordinates": [9.162570062886488, 49.97239571648683],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 48" },
+      "geometry": {
+        "coordinates": [9.163421304433626, 49.972204900037696],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gebäude 49" },
+      "geometry": {
+        "coordinates": [9.16368496521767, 49.97271355523583],
+        "type": "Point"
+      },
+      "id": 21
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eni"
+      },
+      "geometry": {
+        "coordinates": [
+          9.246068650641433,
+          50.08212313247034
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Felicita"
+      },
+      "geometry": {
+        "coordinates": [
+          9.24591711032042,
+          50.08173901499009
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LIDL"
+      },
+      "geometry": {
+        "coordinates": [
+          9.244962335988134,
+          50.08127129076391
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rewe"
+      },
+      "geometry": {
+        "coordinates": [
+          9.24475956163144,
+          50.080829403766955
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feuerwehr"
+      },
+      "geometry": {
+        "coordinates": [
+          9.245161201115536,
+          50.08011137669433
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nachbar"
+      },
+      "geometry": {
+        "coordinates": [
+          9.246667213105866,
+          50.08193355779923
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampel"
+      },
+      "geometry": {
+        "coordinates": [
+          9.246580220205232,
+          50.08263482334391
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Jäger"
+      },
+      "geometry": {
+        "coordinates": [
+          9.247781629687324,
+          50.079983310574136
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    }
+  ]
+}

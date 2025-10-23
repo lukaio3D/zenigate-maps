@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- Zenigate Logo: Stilisierter Kompass/Navigation -->
+  <circle cx="32" cy="32" r="30" fill="#4F46E5" stroke="#312E81" stroke-width="2"/>
+  
+  <!-- Kompass-Nadel -->
+  <path d="M32 8 L38 28 L32 24 L26 28 Z" fill="#EF4444"/>
+  <path d="M32 56 L26 36 L32 40 L38 36 Z" fill="#374151"/>
+  
+  <!-- Zentrum -->
+  <circle cx="32" cy="32" r="4" fill="#FFFFFF" stroke="#312E81" stroke-width="1"/>
+  
+  <!-- Markierungsstriche -->
+  <rect x="30" y="4" width="4" height="8" fill="#FFFFFF"/>
+  <rect x="30" y="52" width="4" height="8" fill="#FFFFFF"/>
+  <rect x="4" y="30" width="8" height="4" fill="#FFFFFF"/>
+  <rect x="52" y="30" width="8" height="4" fill="#FFFFFF"/>
+  
+  <!-- "Z" für Zenigate -->
+  <text x="32" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Z</text>
+</svg>

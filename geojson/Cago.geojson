@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "poi1",
+        "name": "Naturerlebnisbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.25535947478701, 50.08442782757133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "poi3",
+        "name": "Krombach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.206277992487585, 50.08069093002271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "poi4",
+        "name": "Ernstkirchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.246348487005354, 50.079017723867345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "poi5",
+        "name": "Rathaus Schloss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.246365069373676, 50.084738404236894]
+      }
+    }
+  ]
+}
